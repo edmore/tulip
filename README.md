@@ -1,4 +1,4 @@
 tulip
 =====
 
-a tiny http server in C
+A Tiny HTTP server in C
